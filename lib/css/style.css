@@ -7,3 +7,8 @@
     color: #522308;
     font-size: 1.6em;
 }
+.navbar{
+    background: rgba(0,0,0,0);
+    border-bottom: transparent;
+    box-shadow: none;
+}
