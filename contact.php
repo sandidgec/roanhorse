@@ -6,7 +6,7 @@
 <body>
 <?php require_once("navbar.php");?>
 
-<img src="lib/images/mojave.jpg" height="500px" width="1349px">
+<img src="lib/images/mojave.jpg" height="500px" width="1349px" class="mojave">
 
 <form class="form-horizontal" method="post">
     <h1 class="text-center header"><span>Contact me</span></h1>
