@@ -6,7 +6,7 @@
 <body>
 <?php require_once("navbar.php");?>
 
-<img class="skies" src="lib/images/mountainSkies.jpg" height="431.997px" width="1800px">
+<img class="skies" src="lib/images/mountainSkies.jpg" height="500px" width="1349px">
 
 
 </body>
