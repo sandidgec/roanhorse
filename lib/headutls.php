@@ -1,5 +1,9 @@
 <title>Roanhorse Consulting</title>
 
+<script src="https://code.jquery.com/jquery-2.2.3.min.js"
+        integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo="
+        crossorigin="anonymous"></script>
+
 <meta name="google-site-verification" content="sHVoWbCG1B8zLjSk1Xf8dYaW2ECIspaMD7ae_6Ec2Kk" />
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
